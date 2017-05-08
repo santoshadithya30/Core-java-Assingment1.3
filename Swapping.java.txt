@@ -1,0 +1,14 @@
+public class Swapping
+{
+public static void main(String[] args) {
+
+int a = 10;
+int b = 5;
+
+int a = a+b;
+int a = a-b;
+int b = b-a;
+
+system.out.println(a,b);
+}
+}
